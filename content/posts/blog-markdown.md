@@ -4,6 +4,7 @@ title: Markdown for This Blog
 tags: ["markdown"]
 date: 2020-11-26 21:10:40
 draft: false
+math: true
 ---
 
 ## Markdown for This Blog

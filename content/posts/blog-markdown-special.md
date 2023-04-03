@@ -4,6 +4,7 @@ title: Special Markdown Case
 tags: ["markdown"]
 date: 2020-11-26 21:10:40
 draft: false
+math: true
 ---
 
 ## Special Markdown Case
@@ -328,6 +329,12 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 Newline equation with two dollar signs.
 
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
+
+or
+
+$$
+\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))
+$$
 
 ### 24. Specific HTML Code
 
