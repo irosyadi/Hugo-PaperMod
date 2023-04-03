@@ -225,3 +225,5 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+
+math: true
